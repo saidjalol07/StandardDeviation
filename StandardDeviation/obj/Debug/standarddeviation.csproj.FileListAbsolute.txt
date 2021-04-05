@@ -1,0 +1,40 @@
+C:\Users\SLT\source\repos\standarddeviation\bin\Debug\standarddeviation.exe.config
+C:\Users\SLT\source\repos\standarddeviation\bin\Debug\standarddeviation.exe
+C:\Users\SLT\source\repos\standarddeviation\bin\Debug\standarddeviation.pdb
+C:\Users\SLT\source\repos\standarddeviation\obj\Debug\standarddeviation.csprojAssemblyReference.cache
+C:\Users\SLT\source\repos\standarddeviation\obj\Debug\standarddeviation.Properties.Resources.resources
+C:\Users\SLT\source\repos\standarddeviation\obj\Debug\standarddeviation.csproj.GenerateResource.cache
+C:\Users\SLT\source\repos\standarddeviation\obj\Debug\standarddeviation.csproj.CoreCompileInputs.cache
+C:\Users\SLT\source\repos\standarddeviation\obj\Debug\standarddeviation.exe
+C:\Users\SLT\source\repos\standarddeviation\obj\Debug\standarddeviation.pdb
+C:\Users\SLT\source\repos\standarddeviation\obj\Debug\standarddeviation.TempData.resources
+E:\standarddeviation\bin\Debug\standarddeviation.exe.config
+E:\standarddeviation\bin\Debug\standarddeviation.exe
+E:\standarddeviation\bin\Debug\standarddeviation.pdb
+E:\standarddeviation\obj\Debug\standarddeviation.csprojAssemblyReference.cache
+E:\standarddeviation\obj\Debug\standarddeviation.Form1.resources
+E:\standarddeviation\obj\Debug\standarddeviation.Properties.Resources.resources
+E:\standarddeviation\obj\Debug\standarddeviation.csproj.GenerateResource.cache
+E:\standarddeviation\obj\Debug\standarddeviation.csproj.CoreCompileInputs.cache
+E:\standarddeviation\obj\Debug\standarddeviation.exe
+E:\standarddeviation\obj\Debug\standarddeviation.pdb
+D:\My_Documents\Desktop\standarddeviation\bin\Debug\standarddeviation.exe.config
+D:\My_Documents\Desktop\standarddeviation\bin\Debug\standarddeviation.exe
+D:\My_Documents\Desktop\standarddeviation\bin\Debug\standarddeviation.pdb
+D:\My_Documents\Desktop\standarddeviation\obj\Debug\standarddeviation.csprojAssemblyReference.cache
+D:\My_Documents\Desktop\standarddeviation\obj\Debug\standarddeviation.Form1.resources
+D:\My_Documents\Desktop\standarddeviation\obj\Debug\standarddeviation.Properties.Resources.resources
+D:\My_Documents\Desktop\standarddeviation\obj\Debug\standarddeviation.csproj.GenerateResource.cache
+D:\My_Documents\Desktop\standarddeviation\obj\Debug\standarddeviation.csproj.CoreCompileInputs.cache
+D:\My_Documents\Desktop\standarddeviation\obj\Debug\standarddeviation.exe
+D:\My_Documents\Desktop\standarddeviation\obj\Debug\standarddeviation.pdb
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\bin\Debug\standarddeviation.exe.config
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\bin\Debug\standarddeviation.exe
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\bin\Debug\standarddeviation.pdb
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\obj\Debug\standarddeviation.csprojAssemblyReference.cache
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\obj\Debug\standarddeviation.Form1.resources
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\obj\Debug\standarddeviation.Properties.Resources.resources
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\obj\Debug\standarddeviation.csproj.GenerateResource.cache
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\obj\Debug\standarddeviation.csproj.CoreCompileInputs.cache
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\obj\Debug\standarddeviation.exe
+D:\My_Documents\Desktop\pc folder (1)\standarddeviation\obj\Debug\standarddeviation.pdb
